@@ -1,0 +1,6 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\obj\Debug\EmpLib.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\obj\Debug\EmpLib.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\AssemblyLib\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
